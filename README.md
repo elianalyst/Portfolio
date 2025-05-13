@@ -16,7 +16,7 @@ Welcome to my data portfolio — a collection of projects completed during my MS
 |--------|-------------|-------|
 | [Sentiment Analysis](https://github.com/elianalyst/Sentiment-Analysis) | Trained a neural network on Yelp customer reviews to predict positive and negative sentiment. | Python, NLP, Keras |
 | [Customer Churn Prediction](https://github.com/elianalyst/Customer-Churn) | Built a model to predict customer turnover and inform retention strategy. | Python, scikit-learn, RF |
-| [Property Price Prediction](https://github.com/elianalyst/Property-Sales) | Built and compared 10 machine learning models to predict New York City property sale prices from 38,000 transactions. | Python, scikit-learn|
+| [Property Price Prediction](https://github.com/elianalyst/Property-Sales) | BBuilt and compared 10 machine learning models to predict property sale prices in New York City using 38,000 transaction records. | Python, scikit-learn|
 
 
 ## 🔧 Data Engineering
