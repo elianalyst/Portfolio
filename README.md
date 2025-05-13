@@ -14,7 +14,7 @@ Welcome to my data portfolio — a collection of projects completed during my MS
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Sentiment Analysis](https://github.com/elianalyst/Sentiment-Analysis) | Developed a neural network to predict Yelp review sentiment |Python, Natural Language Processing Pytorch, TensorFlow, Keras|
+| [Sentiment Analysis](https://github.com/elianalyst/Sentiment-Analysis) | Developed a neural network to predict Yelp review sentiment |Python, Natural Language Processing, Pytorch, TensorFlow, Keras|
 | [Customer Churn Prediction](https://github.com/elianalyst/Customer-Churn) | Developed a random forest model to predict custotmer turnover. |Python, Random Forest Classification, scikit-learn |
 
 ## 🔧 Data Engineering
