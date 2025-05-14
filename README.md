@@ -26,4 +26,4 @@ Welcome to my data portfolio — a collection of projects completed during my MS
 | [Data Production Pipeline](https://github.com/elianalyst/Data-Production-Pipeline) | Built and implemented an end-to-end pipeline to implement an airport prediction delay experiment. | Python, MLflow, DVC |
 
 ## 📈 Tableau
-This is me [Tableau Public Profile]([https://public.tableau.com/app/profile/yourusername](https://public.tableau.com/app/profile/eli.neiman7083/vizzes).
+This is my [Tableau Public Profile](https://public.tableau.com/app/profile/eli.neiman7083/vizzes).
