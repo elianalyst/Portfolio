@@ -1,6 +1,11 @@
-# 🎯 Eli's Portfolio
+# Eli's Portfolio
 
 Welcome to my data portfolio — a collection of projects completed during my MS in Data Analytics and personal/freelance work.
+
+📚 Table of Contents
+- [📊 Data Analysis](#-data-analysis)
+- [🖥️ Machine Learning](#-machine-learning)
+- [🔧 Data Engineering](#-data-engineering)
 
 ## 📊 Data Analysis
 
