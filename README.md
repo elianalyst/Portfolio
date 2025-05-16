@@ -29,7 +29,7 @@ Welcome to my data portfolio — a collection of projects completed during my MS
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Superstore Sales](https://github.com/elianalyst/Superstore-Sales-Analysis) | Analyzed 9,000+ transactions from a global superstore to identify key performance indicators. | SQL, SQLite|
+| [Superstore Sales Performance](https://github.com/elianalyst/Superstore-Sales-Analysis) | Analyzed 9,000+ transactions from a global superstore to identify key performance indicators. |SQL, SQLite, Python|
 
 
 ## 📈 Tableau
